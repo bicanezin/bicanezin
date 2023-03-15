@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💼- I’m currently working at:
+- 💼- I’m currently working at:
 <br/>
 <br/>
-[![Mobfix Badge](https://mobfix.app/images/menu/logoApp.png)](https://mobfix.app/)
+
 <br/>
 
 📫- <b>How to reach me:</b> <br/>
