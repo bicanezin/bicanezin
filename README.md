@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 #### LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicanezin&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bicanezin&count_private=true&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### STATS
 [![bicanezin's github stats](https://github-readme-stats.vercel.app/api?username=bicanezin&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
